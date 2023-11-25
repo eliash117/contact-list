@@ -16,9 +16,4 @@ function añadirContacto(lista, contacto) {
     }
   }
 
-  añadirContacto(contactos, "Ana López");
   
-  borrarContacto(contactos, "María García");
-  
-  imprimirContactos(contactos);
-        
